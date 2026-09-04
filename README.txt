@@ -19,4 +19,4 @@ Abrir index.html para ver el sitio localmente.
 
 ACTUALIZACIÓN: blog.html añadido, acceso visible al Blog, portadas pulidas, metadatos para compartir en redes y botones de compartir/copiar enlace.
 
-Activar despliegue en Vercel
+Activar despliegue en Vercel-conectado
